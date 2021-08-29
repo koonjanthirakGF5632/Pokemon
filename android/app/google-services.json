@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102667848695",
+    "project_id": "myloginapplication-2e790",
+    "storage_bucket": "myloginapplication-2e790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102667848695:android:4af7e076f6dc122a2fbcf2",
+        "android_client_info": {
+          "package_name": "com.example.janthirak_mobile_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102667848695-s3m1jb2pmd0h6v4ir8jifta1gi3bbfhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLn_OWrQlGARez2U9XUBHwAd3TRfKi_dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102667848695-s3m1jb2pmd0h6v4ir8jifta1gi3bbfhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
