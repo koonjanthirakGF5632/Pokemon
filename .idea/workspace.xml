@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="def16b28-406d-4505-af1d-f4bac53208f1" name="Default Changelist" comment="fff">
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[JYNBB18524157406]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="event" />
+        <option value="state" />
+        <option value="bloc" />
+        <option value="Dart File" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1630236381" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1630236308" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1x6yHNGgFfPk9YChp6sabirc4xq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android/app" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\DynamicTech\Flutter_app\janthirak_mobile_dev\android\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\DynamicTech\Flutter_app\janthirak_mobile_dev\android\app" />
+      <recent name="F:\DynamicTech\Flutter_app\janthirak_mobile_dev\android\app\" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="def16b28-406d-4505-af1d-f4bac53208f1" name="Default Changelist" comment="" />
+      <created>1629689743083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629689743083</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fff">
+      <created>1630235353284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630235353284</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fff" />
+    <option name="LAST_COMMIT_MESSAGE" value="fff" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1630237183529">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1366.147.1366.728@0.0.1536.824" timestamp="1630237183529" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1629699531076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/-1366.147.1366.728@0.0.1536.824" timestamp="1629699531076" />
+    <state width="1491" height="201" key="GridCell.Tab.0.bottom" timestamp="1630235253352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824/-1366.147.1366.728@0.0.1536.824" timestamp="1630235253352" />
+    <state width="1491" height="201" key="GridCell.Tab.0.center" timestamp="1630235253352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="201" key="GridCell.Tab.0.center/0.0.1536.824/-1366.147.1366.728@0.0.1536.824" timestamp="1630235253352" />
+    <state width="1491" height="201" key="GridCell.Tab.0.left" timestamp="1630235253352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="201" key="GridCell.Tab.0.left/0.0.1536.824/-1366.147.1366.728@0.0.1536.824" timestamp="1630235253352" />
+    <state width="1491" height="201" key="GridCell.Tab.0.right" timestamp="1630235253352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="201" key="GridCell.Tab.0.right/0.0.1536.824/-1366.147.1366.728@0.0.1536.824" timestamp="1630235253352" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1630235498638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1366.147.1366.728@0.0.1536.824" timestamp="1630235498638" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1630235373537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1366.147.1366.728@0.0.1536.824" timestamp="1630235373537" />
+    <state x="-1284" y="147" width="1300" height="779" maximized="true" key="dock-window-1" timestamp="1629948835347">
+      <screen x="-1366" y="147" width="1366" height="728" />
+    </state>
+    <state x="-1284" y="147" width="1300" height="779" maximized="true" key="dock-window-1/0.0.1536.824/-1366.147.1366.728@0.0.1536.824" timestamp="1629948835347" />
+    <state x="-1366" y="147" width="1300" height="779" key="dock-window-2" timestamp="1629948835347">
+      <screen x="-1366" y="147" width="1366" height="728" />
+    </state>
+    <state x="-1366" y="147" width="1300" height="779" key="dock-window-2/0.0.1536.824/-1366.147.1366.728@0.0.1536.824" timestamp="1629948835347" />
+    <state x="431" y="146" key="search.everywhere.popup" timestamp="1629700563747">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="146" key="search.everywhere.popup/0.0.1536.824/-1366.147.1366.728@0.0.1536.824" timestamp="1629700563747" />
+  </component>
+</project>
