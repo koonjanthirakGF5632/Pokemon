@@ -40,10 +40,10 @@ class _Pokemon_HomePageState extends State<Pokemon_HomePage> {
         width: double.infinity,
         height: 50,
         decoration: BoxDecoration(
-          border: Border.all(color: Colors.lightGreen,width: 1),
+          border: Border.all(color: Colors.black,width: 1),
           shape: BoxShape.circle,
           image: DecorationImage(
-            image: NetworkImage('https://s359.kapook.com/rq/500/auto/50/pagebuilder/52481d58-6531-4760-aa0d-fbd3237fadb8.gif',),
+            image: NetworkImage('https://thumbs.dreamstime.com/b/user-icon-member-login-vector-isolated-white-background-form-155134186.jpg',),
             fit: BoxFit.fill,
           ),
         ),

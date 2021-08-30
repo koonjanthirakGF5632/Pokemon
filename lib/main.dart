@@ -102,7 +102,9 @@ class _MyHomePageState extends State<MyHomePage> {
             mainAxisAlignment: MainAxisAlignment.center,
             mainAxisSize: MainAxisSize.max,
             children: [
-              CircularProgressIndicator()
+              Text('Welcome',style: TextStyle(color: Colors.white,fontSize: 40,fontWeight: FontWeight.bold),),
+              SizedBox(height: 70,),
+              CircularProgressIndicator(color: Colors.white,)
             ],
           ),
 
